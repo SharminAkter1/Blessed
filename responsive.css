@@ -550,6 +550,11 @@
     padding-left: 1rem
   }
 
+  .checkbtn i {
+    margin-left: 9rem;
+    font-size: 1.5rem;
+  }
+
   .checkbtn {
     display: block;
     text-align: center;
