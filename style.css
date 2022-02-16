@@ -13,7 +13,7 @@
 }
 
 #home{
-  background: url('../images/banner.jpg')
+  background: url('images/banner.jpg')
   no-repeat center center/cover;
   min-height: 80vh;
   position: relative;
@@ -255,7 +255,7 @@ button {
 
 /* Registered section*/
 #registered {
-  background: url('../images/register.png')
+  background: url('images/register.png')
   no-repeat center center/cover;
 }
 
